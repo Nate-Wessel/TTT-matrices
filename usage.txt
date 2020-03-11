@@ -1,0 +1,5 @@
+#BUILD
+java -jar otp.jar --build data/graphs/ttc
+
+# RUN
+java -jar otp.jar --graphs data/graphs --router ttc --server
